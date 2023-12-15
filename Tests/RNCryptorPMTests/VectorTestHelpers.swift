@@ -23,7 +23,7 @@
 //
 
 import XCTest
-@testable import RNCryptor
+@testable import RNCryptorPM
 
 func verifyVector(_ vector: [String:String], key:String, equals actual:Data, name:String) {
     let version = vector["version"]!

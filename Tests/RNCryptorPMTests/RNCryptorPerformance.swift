@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import RNCryptor
+import RNCryptorPM
 
 private let password = "password"
 

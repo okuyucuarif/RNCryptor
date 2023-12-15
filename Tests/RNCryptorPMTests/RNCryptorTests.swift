@@ -24,7 +24,7 @@
 
 import XCTest
 
-@testable import RNCryptor
+@testable import RNCryptorPM
 
 func randomLength() -> Int {
     return Int(arc4random_uniform(1024) + 1)
